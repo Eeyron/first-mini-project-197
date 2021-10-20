@@ -1,3 +1,5 @@
+#place the data folders in the same directory of this file
+
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) #Sets the working directory to the directory of the source file
 
 #Problem 1
